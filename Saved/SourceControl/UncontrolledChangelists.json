@@ -10,7 +10,11 @@
 				"D:/Unreal Project/Maze/Content/Blueprints/BP_MazeCell.uasset",
 				"D:/Unreal Project/Maze/Content/Blueprints/S_Wall.uasset",
 				"D:/Unreal Project/Maze/Content/Blueprints/DT_Wall.uasset",
-				"D:/Unreal Project/Maze/Content/Blueprints/E_Wall.uasset",
+				"D:/Unreal Project/Maze/Content/Blueprints/Widget/WBP_Game.uasset",
+				"D:/Unreal Project/Maze/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Unreal Project/Maze/Content/Blueprints/BP_Finish.uasset",
+				"D:/Unreal Project/Maze/Content/Blueprints/BP_Light.uasset",
+				"D:/Unreal Project/Maze/Content/Blueprints/M_Light.uasset",
 				"D:/Unreal Project/Maze/Content/Blueprints/E_Wall.uasset",
 				"D:/Unreal Project/Maze/Content/Blueprints/BP_MazePlatform.uasset"
 			]
